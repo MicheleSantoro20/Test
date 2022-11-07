@@ -1,0 +1,70 @@
+body {
+  background-image: url("background.jpg");
+  font-family: "Arial Sans Serif", Arial, sans-serif;
+}
+.transbox {
+  background: rgba(0, 0, 0, .5);
+  margin: auto;
+  margin-top: 20px;
+  height: 850px;
+  width: 1500px;
+  border-radius: 15px;
+}
+figure {
+  width: 250px;
+  margin: auto;
+}
+section{
+  color: white;
+
+}
+nav, #logo {
+;
+}
+#logo {
+  width: 250px;
+  margin-top: 95px;
+}
+#titolo {
+  color: lime;
+  font-size: 35px;
+  text-align: center;
+}
+nav, main {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+nav {
+  background-color: lime;
+  padding: 10px;
+  text-align: center;
+}
+
+span {
+  font-size:25px;
+}
+p {
+  line-height: 5px;
+}
+p, div {
+  font-size: 17px;
+}
+p:before {
+  content: "\21A6";
+}
+#medio, #carico, #scarico {
+  border-radius: 5px;
+  padding: 13px;
+}
+#medio {
+  background-color: #CD853F;
+  margin-right: 67%;
+}
+#carico {
+  background-color: lime;
+  margin-right: 40%;
+}
+#scarico {
+  background-color: #CD5555;
+  margin-right: 85%;
+}
