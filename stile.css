@@ -29,10 +29,12 @@ nav, #logo {
   color: lime;
   font-size: 35px;
   text-align: center;
+  margin-bottom: 10px;
 }
 nav, main {
   margin-left: 20%;
   margin-right: 20%;
+  margin-bottom: 20px;
 }
 nav {
   background-color: lime;
